@@ -1,0 +1,213 @@
+[
+    {
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "price": 999.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.1 inches",
+        "camera": "12 MP dual",
+        "battery": "3279 mAh",
+        "processor": "A15 Bionic"
+      },
+      "launchDate": "2022-09-16",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "price": 849.99,
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/i/d/-original-imagzm8qbwwyyvhf.jpeg?q=70",
+      "features": {
+        "screenSize": "6.2 inches",
+        "camera": "50 MP triple",
+        "battery": "3900 mAh",
+        "processor": "Snapdragon 8 Gen 2"
+      },
+      "launchDate": "2023-02-17",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 7",
+      "price": 599.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/x/9/-original-imaggsudg5fufyte.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.3 inches",
+        "camera": "50 MP dual",
+        "battery": "4355 mAh",
+        "processor": "Tensor G2"
+      },
+      "launchDate": "2022-10-13",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "OnePlus",
+      "model": "OnePlus 11",
+      "price": 699.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/screen-guard/edge-to-edge-tempered-glass/s/g/f/uv-glass-1plus-11-5g-s3-snmart-original-imah2gthvncrfkbe.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.7 inches",
+        "camera": "50 MP triple",
+        "battery": "5000 mAh",
+        "processor": "Snapdragon 8 Gen 2"
+      },
+      "launchDate": "2023-01-09",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 13",
+      "price": 749.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/c/h/z/14-civi-mzb0h0iin-xiaomi-original-imahfqjxnrqrxyfg.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.36 inches",
+        "camera": "50 MP triple",
+        "battery": "4500 mAh",
+        "processor": "Snapdragon 8 Gen 1"
+      },
+      "launchDate": "2022-12-31",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Oppo",
+      "model": "Reno 3",
+      "price": 949.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/n/5/-original-imah3cmcs6gzqn78.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.36 inches",
+        "camera": "64 MP triple",
+        "battery": "4500 mAh",
+        "processor": "Snapdragon 8 Gen 1"
+      },
+      "launchDate": "2020-03-16",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Sony",
+      "model": "Xperia 1 IV",
+      "price": 1199.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/n/5/-original-imah3cmcs6gzqn78.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.5 inches",
+        "camera": "12 MP quad",
+        "battery": "5000 mAh",
+        "processor": "Snapdragon 8 Gen 1"
+      },
+      "launchDate": "2022-06-11",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Huawei",
+      "model": "P50 Pro",
+      "price": 899.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/n/5/-original-imah3cmcs6gzqn78.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.6 inches",
+        "camera": "50 MP quad",
+        "battery": "4360 mAh",
+        "processor": "Kirin 9000"
+      },
+      "launchDate": "2021-07-30",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Nokia",
+      "model": "G50",
+      "price": 299.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/n/5/-original-imah3cmcs6gzqn78.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.82 inches",
+        "camera": "48 MP triple",
+        "battery": "5000 mAh",
+        "processor": "Snapdragon 480"
+      },
+      "launchDate": "2021-09-18",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Realme",
+      "model": "GT 2 Pro",
+      "price": 749.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/n/5/-original-imah3cmcs6gzqn78.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.7 inches",
+        "camera": "50 MP triple",
+        "battery": "5000 mAh",
+        "processor": "Snapdragon 8 Gen 1"
+      },
+      "launchDate": "2022-01-04",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Asus",
+      "model": "ROG Phone 6",
+      "price": 1199.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/screen-guard/edge-to-edge-tempered-glass/s/g/f/uv-glass-1plus-11-5g-s3-snmart-original-imah2gthvncrfkbe.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.78 inches",
+        "camera": "50 MP triple",
+        "battery": "6000 mAh",
+        "processor": "Snapdragon 8+ Gen 1"
+      },
+      "launchDate": "2022-07-05",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Vivo",
+      "model": "X80 Pro",
+      "price": 999.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/n/5/-original-imah3cmcs6gzqn78.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.78 inches",
+        "camera": "50 MP quad",
+        "battery": "4700 mAh",
+        "processor": "Snapdragon 8 Gen 1"
+      },
+      "launchDate": "2022-04-25",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "ZTE",
+      "model": "Axon 20",
+      "price": 399.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/r/n/5/-original-imah3cmcs6gzqn78.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.92 inches",
+        "camera": "64 MP quad",
+        "battery": "4220 mAh",
+        "processor": "Snapdragon 765G"
+      },
+      "launchDate": "2020-09-01",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Legion Phone Duel 2",
+      "price": 799.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/screen-guard/edge-to-edge-tempered-glass/s/g/f/uv-glass-1plus-11-5g-s3-snmart-original-imah2gthvncrfkbe.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.92 inches",
+        "camera": "64 MP dual",
+        "battery": "5500 mAh",
+        "processor": "Snapdragon 888"
+      },
+      "launchDate": "2021-04-15",
+      "dealer_amount": 0
+    },
+    {
+      "brand": "Motorola",
+      "model": "Edge 30 Ultra",
+      "price": 899.99,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/g/x/9/-original-imaggsudg5fufyte.jpeg?q=70&crop=false",
+      "features": {
+        "screenSize": "6.67 inches",
+        "camera": "200 MP triple",
+        "battery": "4610 mAh",
+        "processor": "Snapdragon 8+ Gen 1"
+      },
+      "launchDate": "2022-09-08",
+      "dealer_amount": 0
+    }
+  ]
+  
